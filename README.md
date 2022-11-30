@@ -19,3 +19,6 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import plotly.express as px
 import plotly.graph_objs as go
 ```
+
+# Video สาธิต
+https://www.youtube.com/watch?v=iSue0ppf9NY&ab_channel=HakulaniTV
