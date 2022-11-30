@@ -20,5 +20,6 @@ import plotly.express as px
 import plotly.graph_objs as go
 ```
 
-# Video สาธิต
+# Video presentation
 https://www.youtube.com/watch?v=iSue0ppf9NY&ab_channel=HakulaniTV
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=iSue0ppf9NY&ab_channel=HakulaniTV)
