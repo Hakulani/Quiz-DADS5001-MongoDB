@@ -22,4 +22,4 @@ import plotly.graph_objs as go
 
 # Video presentation
 https://www.youtube.com/watch?v=iSue0ppf9NY&ab_channel=HakulaniTV
-(https://www.youtube.com/watch?v=iSue0ppf9NY&ab_channel=HakulaniTV)
+[![Video presentation](https://www.youtube.com/watch?v=iSue0ppf9NY&ab_channel=HakulaniTV)]
